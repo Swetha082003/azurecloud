@@ -43,7 +43,7 @@ Common Use Cases
 
 1. Web and Mobile Applications: Build, host, and scale applications quickly.
 2. Data Backup and Disaster Recovery: Reliable backup solutions and recovery plans to protect critical data.   
-4. Big Data and Analytics: Process and analyze large datasets for business intelligence.
-5. IoT Applications: Develop and manage Internet of Things (IoT) solutions with Azure IoT Hub.
+3. Big Data and Analytics: Process and analyze large datasets for business intelligence.
+4. IoT Applications: Develop and manage Internet of Things (IoT) solutions with Azure IoT Hub.
 
 
