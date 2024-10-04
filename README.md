@@ -1,4 +1,4 @@
-# azurecloud
+# Azurecloud
 Azure is Microsoft's cloud computing platform, offering a wide range of services for building, deploying, and managing applications through Microsoft-managed data centers. It provides solutions for various needs, including:
 Azure Cloud, officially known as Microsoft Azure, is a leading cloud computing platform that offers a wide array of services to help businesses and developers build, deploy, and manage applications through Microsoft’s global network of data centers. Here’s an overview of Azure Cloud:
 
